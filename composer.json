@@ -2,7 +2,7 @@
     "name": "scragg0x/google-api-php",
     "type": "library",
     "description": "Simple Google API wrapper in php",
-    "keywords": ["govtrack"],
+    "keywords": ["google api"],
     "homepage": "https://github.com/scragg0x/google-api-php",
     "license": "MIT",
     "authors": [
